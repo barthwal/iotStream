@@ -1,0 +1,25 @@
+{
+  "name": "shiftregistry",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "node-gyp": "^6.1.0"
+  },
+  "devDependencies": {
+    "candyman": "^0.1.86",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.8.4",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2",
+    "npm": "^6.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.min.js",
+    "deploy": "gulp deploy"
+  },
+  "author": "",
+  "license": "ISC"
+}

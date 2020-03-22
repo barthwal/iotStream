@@ -1,0 +1,13 @@
+{
+  "buildMainFile": "app.min.js",
+  "candymanConfig": {
+    "targetDevices": [
+      {
+        "deviceName": "maSC0d3R",
+        "password": "saurabh123",
+        "hostname": "192.168.0.112",
+        "projectName": "shiftRegistry"
+      }
+    ]
+  }
+}
